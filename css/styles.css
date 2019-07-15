@@ -1,0 +1,241 @@
+/**********************************************INDEX.HTML**********************************************/
+h1 {
+  font-family: 'Play', sans-serif;
+  font-size: 4rem;
+}
+
+h2 {
+  margin-bottom: 7%;
+}
+
+hr {
+  margin: 0;
+}
+
+img {
+  padding: 1% 1% 1%;
+  width: 150px;
+}
+/* NAVIGATION BAR */
+.navbar {
+  background-color: #d8e9f0;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* JUMBOTRON */
+.jumbotron {
+  background-image: url('https://i.pinimg.com/originals/24/72/2e/24722ecaaa6ebe405c4366f6afd06d4f.jpg');
+  background-size: cover;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
+.title-text {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* OUR SERVICES */
+.services {
+  background-color: #d8e9f0;
+  padding: 3px 15px;
+  text-align: center;
+}
+
+.serv{
+  color: #233142;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: .2rem;
+}
+
+.serh {
+  font-family: 'Play-Bold', sans-serif;
+  font-size: 5rem;
+}
+
+.but {
+  padding-top: 15px;
+}
+
+.list-group-item-secondary {
+  color: #233142;
+}
+
+/* CONTACT US */
+.home-contact {
+  background-color: #455d7a;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.your-vision {
+  color: #e3e3e3;
+  font-family: 'Play', sans-serif;
+  font-size: 2rem;
+  letter-spacing: .2rem;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+
+/**********************************************SERVICES.HTML**********************************************/
+
+/* OUR SERVICES */
+.our-services{
+  background-color: #455d7a;
+  color: white;
+  text-align: center;
+}
+
+.service-info {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: .1rem;
+  line-height: 200%;
+}
+
+/* DECORATIVE/POLISHED CONCRETE */
+.decorative {
+  background-color: white;
+  color: #233142;
+  text-align: center;
+}
+
+.decor-hook {
+  color: #f95959;
+  letter-spacing: .2rem;
+  line-height: 200%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2rem;
+  font-style: italic;
+
+}
+
+.decor-adv {
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: .3rem;
+  text-decoration: underline;
+}
+
+.service-recom {
+  color: #f95959;
+  letter-spacing: .2rem;
+  line-height: 200%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+/* MAINTENANCE */
+.maintenance {
+  background-color: #e3e3e3;
+  text-align: center;
+}
+
+.maintenance-info {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: .1rem;
+  line-height: 200%;
+}
+
+/* MOISTURE */
+.moisture {
+  background-color: white;
+  color: #233142;
+  text-align: center;
+}
+
+.moisture-info {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: .1rem;
+  line-height: 200%;
+}
+
+/**********************************************CONTACT-US.HTML**********************************************/
+.contact-us {
+  background-color: #455d7a;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+}
+
+/**********************************************OUR-WORK.HTML**********************************************/
+.work-title {
+  background-color: white;
+  color: #455d7a;
+  text-align: center;
+}
+
+.mar {
+  margin: 3%;
+}
+
+.work-sub {
+  font-size: 1.4rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* BATON ROUGE */
+.baton-rouge {
+  background-color: #e3e3e3;
+  text-align: center;
+}
+
+/* SAM'S CLUB */
+.sams {
+  text-align: center;
+}
+
+/* HOME DEPOT */
+.home-depot {
+  background-color: #e3e3e3;
+  text-align: center;
+}
+
+/* HOSPITAL */
+.hospital {
+  text-align: center;
+}
+
+/* TILE WORK */
+.tile {
+  background-color: #e3e3e3;
+  text-align: center;
+}
+
+/* STONE RESTORATION */
+.stone {
+  text-align: center;
+}
+
+/**********************************************ABOUT US**********************************************/
+.about-us {
+  text-align: center;
+}
+
+.about-info {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: .1rem;
+  line-height: 200%;
+}
+
+/**********************************************FOOTER**********************************************/
+.foot {
+  background-color: #f95959;
+  font-family: 'Roboto', sans-serif;
+  padding: 2%;
+  text-align: center;
+}
+
+.foot-mar{
+  margin: 0;
+}
